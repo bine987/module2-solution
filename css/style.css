@@ -4,10 +4,6 @@
 	color: black;
 }
 
-body{
-	position: absolute;
-	left: 0px;
-}
 
 h1{
 	text-align: center;
@@ -38,15 +34,13 @@ section.inner
 	width: 100%;
 	border: black 1px solid;
 	background-color: gray;
-	padding: 10px;
-
+	float:right;
 }
 
-section.inner p{
-
-	margin-top:  0px;
-	margin-bottom: 0px;
+ p{
 	float: right;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 #redArticle{
